@@ -3,7 +3,7 @@
     "label": "Partenariat -",
     "description": "Pour les demandes de partenariat avec un serveur qui comporte moins de membres que nous.",
     "emoji": "➖",
-    "roles_ping_ids": ["1400173461024014451"] 
+    "roles_ping_ids": ["1400138276827828276"] 
   },
   {
     "label": "Partenariat +",
@@ -13,24 +13,31 @@
   }
 ]
 /creer-profil-webhook nom_profil:Tickets partenariats salon:#📩┇tickets┇🤝partenariat avatar_url:https://i.pinimg.com/736x/52/8f/5e/528f5ec81db23521b1fb0340134d843b.jpg
-/ticket-setup salon_panel:#📩┇tickets┇🤝partenariat category_tickets:#"【TICKETS】" titre:Partenariat description_embed:**Si tu as bien lu les ⁠#✅╏conditions•partenariat tu peux créer un ticket** mode:sélecteur profil_nom:Tickets partenariats couleur_hex:#ffffff image_url:https://images-ext-1.discordapp.net/external/lD0xiJfjmFnBfs5d1ZiTzHXg26bb-SJ7dH0HAbs4zws/https/images-ext-1.discordapp.net/external/vwmAKiyCBaUE4eW3Z88szOu7-SC2nDhS3dbEK8Iq7L4/https/cdn-icons-png.flaticon.com/512/4289/4289453.png roles_visibles:1404126851248558251 selecteur_contenu_json:[   {     "label": "Partenariat -",     "description": "Pour les demandes de partenariat avec un serveur qui comporte moins de membres que nous.",     "emoji": ":heavy_minus_sign:",     "roles_ping_ids": ["1400173461024014451"]    },   {     "label": "Partenariat +",     "description": "Pour les demandes de partenariat avec un serveur qui comporte plus de membres que nous..",     "emoji": ":heavy_plus_sign:",     "roles_ping_ids": ["1400138276827828276"]   } ]
+/ticket-setup salon_panel:#📩┇tickets┇🤝partenariat category_tickets:#"【TICKETS】" titre:Partenariat description_embed:**Si tu as bien lu les ⁠#✅╏conditions•partenariat tu peux créer un ticket** mode:sélecteur profil_nom:Tickets partenariats couleur_hex:#ffffff image_url:https://images-ext-1.discordapp.net/external/lD0xiJfjmFnBfs5d1ZiTzHXg26bb-SJ7dH0HAbs4zws/https/images-ext-1.discordapp.net/external/vwmAKiyCBaUE4eW3Z88szOu7-SC2nDhS3dbEK8Iq7L4/https/cdn-icons-png.flaticon.com/512/4289/4289453.png roles_visibles:1404126851248558251 selecteur_contenu_json:[   {     "label": "Partenariat -",     "description": "Pour les demandes de partenariat avec un serveur qui comporte moins de membres que nous.",     "emoji": ":heavy_minus_sign:",     "roles_ping_ids": ["1400138276827828276"]    },   {     "label": "Partenariat +",     "description": "Pour les demandes de partenariat avec un serveur qui comporte plus de membres que nous..",     "emoji": ":heavy_plus_sign:",     "roles_ping_ids": ["1400138276827828276"]   } ]
 
 [
   {
     "label": "Récupère",
     "description": "Récupère un lot ou giveway.",
     "emoji": "🎁",
-    "roles_ping_ids": ["1376897349137465445", "1377544207417213000"] 
+    "roles_ping_ids": ["1377544211221446736", "1399803136734138408"] 
   },
   {
-    "label": "Organise",
-    "description": "Organise une animation avec le serveur ex : giveway.",
+    "label": "Organise-Animation",
+    "description": "Organise une animation avec le serveur.",
     "emoji": "📋",
-    "roles_ping_ids": ["1377544211221446736", "1377544207417213000"]
+    "roles_ping_ids": ["1377544204485525514"]
+  },
+  {
+    "label": "Organise-Giveway",
+    "description": "Organise un giveway avec le serveur.",
+    "emoji": "📋",
+    "roles_ping_ids": ["1377544207417213000"]
+    "roles_visibles" : ["1377544207417213000"]
   }
 ]
 /creer-profil-webhook nom_profil:Tickets animations salon:#📩┇tickets┇🎉animation avatar_url:https://le-papier-peint-francais.com/cdn/shop/files/01b0e6b32be8da2086fd2ad34229b00f.jpg?v=1742997942&width=1913
-/ticket-setup salon_panel:#📩┇tickets┇🎉animation category_tickets:#"【TICKETS】" titre:Animation description_embed:**Récupère un lot ou oranise une animation** mode:sélecteur profil_nom:Tickets animations couleur_hex:#ffa500 image_url:https://images-ext-1.discordapp.net/external/me6SVUqqd4__A0dSEYoVxwPm6sYeJwqFODAJ-J4dFGA/https/img.freepik.com/vecteurs-libre/chapiteau-cirque-couleur-rouge-blanc_1308-37417.jpg roles_visibles:1376615925318684713 selecteur_contenu_json:[   {     "label": "Récupère",     "description": "Récupère un lot ou giveway.",     "emoji": ":gift:",     "roles_ping_ids": ["1376897349137465445", "1377544207417213000"]    },   {     "label": "Organise",     "description": "Organise une animation avec le serveur ex : giveway.",     "emoji": ":clipboard:",     "roles_ping_ids": ["1377544211221446736", "1377544207417213000"]   } ]
+/ticket-setup salon_panel:#📩┇tickets┇🎉animation category_tickets:#"【TICKETS】" titre:Animation description_embed:**Récupère un lot ou oranise une animation** mode:sélecteur profil_nom:Tickets animations couleur_hex:#ffa500 image_url:https://images-ext-1.discordapp.net/external/me6SVUqqd4__A0dSEYoVxwPm6sYeJwqFODAJ-J4dFGA/https/img.freepik.com/vecteurs-libre/chapiteau-cirque-couleur-rouge-blanc_1308-37417.jpg roles_visibles:1376615925318684713 selecteur_contenu_json:[   {     "label": "Récupère",     "description": "Récupère un lot ou giveway.",     "emoji": ":gift:",     "roles_ping_ids": ["1377544211221446736", "1399803136734138408"]    },   {     "label": "Organise-Animation",     "description": "Organise une animation avec le serveur.",     "emoji": ":clipboard:",     "roles_ping_ids": ["1377544204485525514"]   },   {     "label": "Organise-Giveway",     "description": "Organise un giveway avec le serveur.",     "emoji": ":clipboard:",     "roles_ping_ids": ["1377544207417213000"]   } ]
 
 [
   {
@@ -158,4 +165,5 @@ AUTO role
     "role_id": 1428357118163161203
   }
 ]
+
 
