@@ -16,30 +16,31 @@
 ]
 /creer-profil-webhook nom_profil:Tickets partenariats salon:#📩┇tickets┇🤝partenariat avatar_url:https://i.pinimg.com/736x/52/8f/5e/528f5ec81db23521b1fb0340134d843b.jpg
 /ticket-setup salon_panel:#📩┇tickets┇🤝partenariat category_tickets:#"【TICKETS】" titre:Partenariat description_embed:**Si tu as bien lu les ⁠#:white_check_mark:╏conditions•partenariat tu peux créer un ticket** mode:sélecteur profil_nom:Tickets partenariats couleur_hex:#ffffff image_url:https://images-ext-1.discordapp.net/external/lD0xiJfjmFnBfs5d1ZiTzHXg26bb-SJ7dH0HAbs4zws/https/images-ext-1.discordapp.net/external/vwmAKiyCBaUE4eW3Z88szOu7-SC2nDhS3dbEK8Iq7L4/https/cdn-icons-png.flaticon.com/512/4289/4289453.png roles_visibles:1404126851248558251 selecteur_contenu_json:[   {     "label": "Partenariat -",     "description": "Pour les demandes de partenariat avec un serveur qui comporte moins de membres que nous.",     "emoji": ":heavy_minus_sign:",     "roles_ping_ids": ["1400138276827828276", "1431555745413075015", "1369374097724669982"],     "roles_visibles_ids": ["1400138276827828276"]   },   {     "label": "Partenariat +",     "description": "Pour les demandes de partenariat avec un serveur qui comporte plus de membres que nous..",     "emoji": ":heavy_plus_sign:",     "roles_ping_ids": ["1400138276827828276", "1431555745413075015", "1369374097724669982"],     "roles_visibles_ids": ["1400138276827828276"]   } ]
+[
   {
     "label": "Récupère",
     "description": "Récupère un lot ou giveaway.",
     "emoji": "🎁",
-    "roles_ping_ids": ["1377544211221446736", "1399803136734138408"],
+    "roles_ping_ids": ["1377544211221446736", "1399803136734138408", "1431555745413075015", "1369374097724669982"],
     "roles_visibles_ids": ["1377544211221446736", "1399803136734138408"]
   },
   {
     "label": "Organise-Animation",
     "description": "Organise une animation avec le serveur.",
     "emoji": "📋",
-    "roles_ping_ids": ["1377544204485525514"],
+    "roles_ping_ids": ["1377544204485525514", "1431555745413075015", "1369374097724669982"],
     "roles_visibles_ids": ["1377544204485525514"]
   },
   {
     "label": "Organise-Giveway",
     "description": "Organise un giveaway avec le serveur.",
     "emoji": "📋",
-    "roles_ping_ids": ["1377544207417213000"],
+    "roles_ping_ids": ["1377544207417213000", "1431555745413075015", "1369374097724669982"],
     "roles_visibles_ids": ["1377544207417213000"]
   }
 ]
 
-/creer-profil-webhook nom_profil:Tickets animations salon:#📩┇tickets┇🎉animation avatar_url:https://le-papier-peint-francais.com/cdn/shop/files/01b0e6b32be8da2086fd2ad34229b00f.jpg?v=1742997942&width=1913
+/creer-profil-webhook nom_profil:Tickets animations salon:#📩┇tickets┇🎉animation avatar_url:https://www.tabloide.fr/wp-content/uploads/2021/11/Tableau-Roronoa-Zoro-one-piece.jpg
 /ticket-setup salon_panel:#📩┇tickets┇🎉animation category_tickets:#"【TICKETS】" titre:Animation description_embed:**Récupère un lot ou oranise une animation** mode:sélecteur profil_nom:Tickets animations couleur_hex:#ffa500 image_url:https://images-ext-1.discordapp.net/external/me6SVUqqd4__A0dSEYoVxwPm6sYeJwqFODAJ-J4dFGA/https/img.freepik.com/vecteurs-libre/chapiteau-cirque-couleur-rouge-blanc_1308-37417.jpg roles_visibles:1376615925318684713 selecteur_contenu_json:[   {     "label": "Récupère",     "description": "Récupère un lot ou giveway.",     "emoji": ":gift:",     "roles_ping_ids": ["1377544211221446736", "1399803136734138408"]    },   {     "label": "Organise-Animation",     "description": "Organise une animation avec le serveur.",     "emoji": ":clipboard:",     "roles_ping_ids": ["1377544204485525514"]   },   {     "label": "Organise-Giveway",     "description": "Organise un giveway avec le serveur.",     "emoji": ":clipboard:",     "roles_ping_ids": ["1377544207417213000"]   } ]
 
 [
@@ -47,25 +48,29 @@
     "label": "Pôle sécurité",
     "description": "Postule pour le pôle sécurité.",
     "emoji": "🚔",
-    "roles_ping_ids": ["1376896932651339816", "1370805074388844627"] 
+    "roles_ping_ids": ["1431555745413075015", "1369374097724669982", "1420350994897830019"],
+    "roles_visibles_ids": ["1420350994897830019"]
   },
   {
     "label": "Pôle animation",
     "description": "Postule pour le pôle animation.",
     "emoji": "🎪",
-    "roles_ping_ids": ["1376897349137465445", "1370805074388844627"]
+    "roles_ping_ids": ["1431555745413075015", "1369374097724669982", "1377544211221446736"],
+    "roles_visibles_ids": ["1377544211221446736"]
   },
   {
     "label": "Pôle aide",
     "description": "Postule pour le pôle aide.",
     "emoji": "❓",
-    "roles_ping_ids": ["1376897337372184608", "1370805074388844627"]
+    "roles_ping_ids": ["1431555745413075015", "1369374097724669982", "1420351915111354428"],
+    "roles_visibles_ids": ["1420351915111354428"]
   },
   {
-    "label": "Pôle économie",
-    "description": "Postule pour le pôle économie.",
-    "emoji": "🪙",
-    "roles_ping_ids": ["1376897345471647794", "1370805074388844627"]
+    "label": "Pôle community",
+    "description": "Postule pour devenir community manager.",
+    "emoji": "📋",
+    "roles_ping_ids": ["1431555745413075015", "1369374097724669982", "1428353976893706242"],
+    "roles_visibles_ids": ["1428353976893706242"]
   }
 ]
 /creer-profil-webhook nom_profil:Tickets recrutements salon:#📩┇tickets┇🔎recrutement avatar_url:https://img.wattpad.com/148e75e15be2c3e9f6e8447eff246c83d85100aa/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f394c5155774f6c5341554f6738673d3d2d3837343233383833392e313630396135326134373365316235613230313838363236323533362e6a7067
@@ -76,19 +81,22 @@
     "label": "Staff",
     "description": "Signale un staff.",
     "emoji": "🛠️",
-    "roles_ping_ids": ["1370805074388844627"] 
+    "roles_ping_ids": ["1431555745413075015", "1369374097724669982", "1375434162428837958"],
+    "roles_visibles_ids": ["1375434162428837958"]
   },
   {
     "label": "Membre",
     "description": "Signale un membre.",
     "emoji": "👤",
-    "roles_ping_ids": ["1376615914740518983"]
+    "roles_ping_ids": ["1431555745413075015", "1369374097724669982", "1377179805962997830"],
+    "roles_visibles_ids": ["1377179805962997830"]
   },
   {
     "label": "Admin",
     "description": "Signale un administrateur.",
     "emoji": "⚠️",
-    "roles_ping_ids": ["1376615914740518983"]
+    "roles_ping_ids": ["1431555745413075015", "1369374097724669982", "1418252359800459295"],
+    "roles_visibles_ids": ["1418252359800459295"]
   }
 ]
 /creer-profil-webhook nom_profil:Tickets signalements salon:#📩┇tickets┇⛔signalements avatar_url:https://www.mangamag.fr/wp-content/uploads/2023/08/sanji-one-piece.jpg
@@ -99,19 +107,22 @@
     "label": "Question",
     "description": "Demande une question aux staff.",
     "emoji": "❓",
-    "roles_ping_ids": ["1376606011497910313"] 
+    "roles_ping_ids": ["1377542406752178240", "1431555745413075015", "1369374097724669982"],
+    "roles_visibles_ids": ["1377542406752178240", "1418253233734025287"]
   },
   {
     "label": "Suggestion",
     "description": "Donne des suggestions pour le serveur.",
     "emoji": "💡",
-    "roles_ping_ids": ["1376606011497910313"]
+    "roles_ping_ids": ["1377542406752178240", "1431555745413075015", "1369374097724669982"],
+    "roles_visibles_ids": ["1377542406752178240", "1418253233734025287"]
   },
   {
     "label": "Demande d'aide",
     "description": "Demande de l'aide au staff pour un sujet.",
     "emoji": "🆘",
-    "roles_ping_ids": ["1376606011497910313"]
+    "roles_ping_ids": ["1377542406752178240", "1431555745413075015", "1369374097724669982"],
+    "roles_visibles_ids": ["1377542406752178240", "1418253233734025287"]
   }
 ]
 /creer-profil-webhook nom_profil:Tickets autres salon:#📩┇tickets┇📚autres avatar_url:https://static.wikia.nocookie.net/saintpirates/images/5/53/Usopp.png/revision/latest?cb=20170202010950
@@ -174,6 +185,7 @@ AUTO role
     "role_id": 1428357118163161203
   }
 ]
+
 
 
 
