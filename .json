@@ -15,7 +15,7 @@
   }
 ]
 /creer-profil-webhook nom_profil:Tickets partenariats salon:#📩┇tickets┇🤝partenariat avatar_url:https://i.pinimg.com/736x/52/8f/5e/528f5ec81db23521b1fb0340134d843b.jpg
-/ticket-setup salon_panel:#📩┇tickets┇🤝partenariat category_tickets:#"【TICKETS】" titre:Partenariat description_embed:**Si tu as bien lu les ⁠#:white_check_mark:╏conditions•partenariat tu peux créer un ticket** mode:sélecteur profil_nom:Tickets partenariats couleur_hex:#ffffff image_url:https://images-ext-1.discordapp.net/external/lD0xiJfjmFnBfs5d1ZiTzHXg26bb-SJ7dH0HAbs4zws/https/images-ext-1.discordapp.net/external/vwmAKiyCBaUE4eW3Z88szOu7-SC2nDhS3dbEK8Iq7L4/https/cdn-icons-png.flaticon.com/512/4289/4289453.png roles_visibles:1404126851248558251 selecteur_contenu_json:[   {     "label": "Partenariat -",     "description": "Pour les demandes de partenariat avec un serveur qui comporte moins de membres que nous.",     "emoji": ":heavy_minus_sign:",     "roles_ping_ids": ["1400138276827828276", "1431555745413075015", "1369374097724669982"],     "roles_visibles_ids": ["1400138276827828276"]   },   {     "label": "Partenariat +",     "description": "Pour les demandes de partenariat avec un serveur qui comporte plus de membres que nous..",     "emoji": ":heavy_plus_sign:",     "roles_ping_ids": ["1400138276827828276", "1431555745413075015", "1369374097724669982"],     "roles_visibles_ids": ["1400138276827828276"]   } ][
+/ticket-setup salon_panel:#📩┇tickets┇🤝partenariat category_tickets:#"【TICKETS】" titre:Partenariat description_embed:**Si tu as bien lu les ⁠#:white_check_mark:╏conditions•partenariat tu peux créer un ticket** mode:sélecteur profil_nom:Tickets partenariats couleur_hex:#ffffff image_url:https://images-ext-1.discordapp.net/external/lD0xiJfjmFnBfs5d1ZiTzHXg26bb-SJ7dH0HAbs4zws/https/images-ext-1.discordapp.net/external/vwmAKiyCBaUE4eW3Z88szOu7-SC2nDhS3dbEK8Iq7L4/https/cdn-icons-png.flaticon.com/512/4289/4289453.png roles_visibles:1404126851248558251 selecteur_contenu_json:[   {     "label": "Partenariat -",     "description": "Pour les demandes de partenariat avec un serveur qui comporte moins de membres que nous.",     "emoji": ":heavy_minus_sign:",     "roles_ping_ids": ["1400138276827828276", "1431555745413075015", "1369374097724669982"],     "roles_visibles_ids": ["1400138276827828276"]   },   {     "label": "Partenariat +",     "description": "Pour les demandes de partenariat avec un serveur qui comporte plus de membres que nous..",     "emoji": ":heavy_plus_sign:",     "roles_ping_ids": ["1400138276827828276", "1431555745413075015", "1369374097724669982"],     "roles_visibles_ids": ["1400138276827828276"]   } ]
   {
     "label": "Récupère",
     "description": "Récupère un lot ou giveaway.",
@@ -174,6 +174,7 @@ AUTO role
     "role_id": 1428357118163161203
   }
 ]
+
 
 
 
