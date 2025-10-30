@@ -74,7 +74,36 @@
   }
 ]
 /creer-profil-webhook nom_profil:Tickets recrutements salon:#📩┇tickets┇🔎recrutement avatar_url:https://img.wattpad.com/148e75e15be2c3e9f6e8447eff246c83d85100aa/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f394c5155774f6c5341554f6738673d3d2d3837343233383833392e313630396135326134373365316235613230313838363236323533362e6a7067
-/ticket-setup salon_panel:#📩┇tickets┇🔎recrutement category_tickets:#"【TICKETS】" titre:Recrutement description_embed:**Postule pour intégrer le staff du serveur** mode:sélecteur profil_nom:Tickets recrutements couleur_hex:#0000ff image_url:https://images-ext-1.discordapp.net/external/TRjEGRi9p9nlXWHivkD6zqZQChy9oR7zR2ELEoWFsWQ/https/digital-staffing.fr/wp-content/uploads/2019/02/recrutement.jpg roles_visibles:1370805074388844627,1376615934336303196 selecteur_contenu_json:[   {     "label": "Pôle sécurité",     "description": "Postule pour le pôle sécurité.",     "emoji": ":oncoming_police_car:",     "roles_ping_ids": ["1376896932651339816", "1370805074388844627"]    },   {     "label": "Pôle animation",     "description": "Postule pour le pôle animation.",     "emoji": ":circus_tent:",     "roles_ping_ids": ["1376897349137465445", "1370805074388844627"]   },   {     "label": "Pôle aide",     "description": "Postule pour le pôle aide.",     "emoji": ":question:",     "roles_ping_ids": ["1376897337372184608", "1370805074388844627"]   },   {     "label": "Pôle économie",     "description": "Postule pour le pôle économie.",     "emoji": ":coin:",     "roles_ping_ids": ["1376897345471647794", "1370805074388844627"]   } ]
+/ticket-setup salon_panel:#📩┇tickets┇🔎recrutement category_tickets:#"【TICKETS】" titre:Recrutement description_embed:**Postule pour intégrer le staff du serveur** mode:sélecteur profil_nom:Tickets recrutements couleur_hex:#0000ff image_url:https://images-ext-1.discordapp.net/external/TRjEGRi9p9nlXWHivkD6zqZQChy9oR7zR2ELEoWFsWQ/https/digital-staffing.fr/wp-content/uploads/2019/02/recrutement.jpg roles_visibles:1370805074388844627,1376615934336303196 selecteur_contenu_json:[
+  {
+    "label": "Pôle sécurité",
+    "description": "Postule pour le pôle sécurité.",
+    "emoji": "🚔",
+    "roles_ping_ids": ["1431555745413075015", "1369374097724669982", "1420350994897830019"],
+    "roles_visibles_ids": ["1420350994897830019"]
+  },
+  {
+    "label": "Pôle animation",
+    "description": "Postule pour le pôle animation.",
+    "emoji": "🎪",
+    "roles_ping_ids": ["1431555745413075015", "1369374097724669982", "1377544211221446736"],
+    "roles_visibles_ids": ["1377544211221446736"]
+  },
+  {
+    "label": "Pôle aide",
+    "description": "Postule pour le pôle aide.",
+    "emoji": "❓",
+    "roles_ping_ids": ["1431555745413075015", "1369374097724669982", "1420351915111354428"],
+    "roles_visibles_ids": ["1420351915111354428"]
+  },
+  {
+    "label": "Pôle community",
+    "description": "Postule pour devenir community manager.",
+    "emoji": "📋",
+    "roles_ping_ids": ["1431555745413075015", "1369374097724669982", "1428353976893706242"],
+    "roles_visibles_ids": ["1428353976893706242"]
+  }
+]
 
 [
   {
@@ -185,6 +214,7 @@ AUTO role
     "role_id": 1428357118163161203
   }
 ]
+
 
 
 
